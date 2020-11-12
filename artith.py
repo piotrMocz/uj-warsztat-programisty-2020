@@ -6,7 +6,7 @@ def mulByFive(x):
     return x * 5
 
 
-def mulByFive(x):
+def mulBySix(x):
     return x * 6
 
 
