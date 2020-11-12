@@ -1,11 +1,11 @@
 
 
 def foo(x):
-    return x + 10
+    return x + 100
 
 
 def bar():
-    print('Siema Eniu')
+    print('Siema, Eniu')
 
 
 if __name__ == '__main__':
