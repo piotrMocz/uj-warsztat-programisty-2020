@@ -1,6 +1,9 @@
 
 def mulByFive(x):
-    return 5 * x
+    """
+    Multiply the number by five
+    """
+    return x * 5
 
 
 def twoPlusTwo():
