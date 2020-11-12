@@ -6,6 +6,10 @@ def mulByFive(x):
     return x * 5
 
 
+def mulByFive(x):
+    return x * 6
+
+
 def twoPlusTwo():
     return 2 + 2
 
