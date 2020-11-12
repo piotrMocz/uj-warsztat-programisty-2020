@@ -1,4 +1,7 @@
 
+def mulByFive(x):
+    return 5 * x
+
 
 def twoPlusTwo():
     return 2 + 2
