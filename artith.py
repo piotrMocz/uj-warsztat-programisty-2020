@@ -1,7 +1,7 @@
 
 
-def mulByFive(x):
-    return x * 6
+def mulBySeven(x):
+    return x * 7
 
 
 def twoPlusTwo():
