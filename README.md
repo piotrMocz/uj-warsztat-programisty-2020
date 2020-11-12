@@ -2,4 +2,4 @@
 
 Demonstracyjne repozytorium na wykład, bardzo eleganckie.
 
-A ja tez cos zmienilem.
+Oooo ale zmienilem.
