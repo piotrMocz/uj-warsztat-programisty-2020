@@ -18,4 +18,6 @@ SQUASH:
                   /              |
 ----*-----*------/----------*----*----------
 
-ale super zmiana w pliku
+
+ale super tygrys duży
+
