@@ -11,7 +11,7 @@ def mulBySix(x):
 
 
 def twoPlusTwo():
-    return 2 + 2
+    return 2 + 2 + 100
 
 
 def mulBy2(x):
