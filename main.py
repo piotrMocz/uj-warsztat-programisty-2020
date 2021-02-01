@@ -5,7 +5,7 @@ def foo(x):
 
 
 def bar():
-    print('Siema, Eniu')
+    print('Kopytko')
 
 
 if __name__ == '__main__':
